@@ -73,7 +73,7 @@ The dashboard was built using the following visualizations:
     - Recreate the visualizations using Power BI's drag-and-drop functionality.
     - Use interactive filters and slicers to explore the data and derive insights.
 3.  **Dashboard**:
-    - ![1736253879142](image/README/1736253879142.png)
+    - ![1736253879142](Visuals/report.png)
 
 ---
 
